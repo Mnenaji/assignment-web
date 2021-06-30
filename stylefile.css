@@ -1,0 +1,62 @@
+body
+{
+background-image: url(mygraphic.png);
+background-position: center;
+background-repeat: no-repeat;
+}
+
+a
+{
+color: red;
+}
+
+header
+{
+height: 150px;
+width: 100%;
+background-image: url(graphic.png);
+background-position: center;
+background-repeat: no-repeat;
+}
+
+footer
+{
+background-image: url(graphic.png);
+background-position: center;
+background-repeat: no-repeat;
+height: 100px;
+width: 100%;
+}
+
+p
+{
+font-size: 19px;
+
+
+}
+
+div
+{
+	width: 70%;
+	
+}
+
+img
+{
+	width: 240;
+	height: 135;
+}
+
+.increase
+{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+article
+{
+	width: 75%;
+	background-image: url(graphiclight.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
